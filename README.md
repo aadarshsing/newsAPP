@@ -11,6 +11,28 @@ The **News App** is a simple yet powerful application designed to showcase real-
 - **Carousel Layout**: Provides smooth, intuitive navigation through articles.
 - **AdMob Integration**: Enables monetization through ads.
 
+
+## Screenshots
+
+### Home Screen
+
+![Home Screen](![Screenshot_1736133730](https://github.com/user-attachments/assets/2495bdcb-b5bc-4386-9c80-4ee28754beca)
+)
+
+### Article Details
+
+![Article Details](![Screenshot_1736133744](https://github.com/user-attachments/assets/e2d39d94-0eab-4b8e-89f2-4577a003a521)
+)
+
+### Carousel Navigation
+
+![Carousel Navigation](![Screenshot_1736133727](https://github.com/user-attachments/assets/397e2584-e973-4a0f-b402-0a691b2e4208)
+)
+### Ads Screen
+![Ads Screen](![Screenshot_1736133736](https://github.com/user-attachments/assets/0ef950a5-9bf2-4900-9ed3-bb15e3a66ddc)
+)
+
+
 ## Tech Stack
 
 - **Android**: Native Android development.
